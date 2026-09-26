@@ -1,17 +1,5 @@
 # 🔗 [Rotate Array](https://www.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1)
 
-> **GeeksforGeeks Problem**
-
-| 📌 Property | 📋 Details |
-|---|---|
-| **Difficulty** | 🟢 Medium |
-| **Language** | 💻 C++ |
-| **Platform** | 🌐 GeeksforGeeks |
-
----
-
-## 📝 Problem Statement
-
 Given an array arr[]. Rotate the array to the left (counter-clockwise direction) by d steps, where d is a positive integer. Do the mentioned change in the array in place.
 
 Note: Consider the array as circular.
