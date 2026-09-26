@@ -64,12 +64,12 @@ when we rotate 9 times, we'll get [3, 9, 1, 7] as resultant array.
 
 ---
 
-## 💡 Solution
+// ## 💡 Solution
 
-Solution file: [`Rotate-Array.cpp`](./Rotate-Array.cpp)
+// Solution file: [`Rotate-Array.cpp`](./Rotate-Array.cpp)
 
-```cpp
-class Solution {
+// ```cpp
+// class Solution {
 	public:
 	void rotateArr(vector<int>& arr, int d) {
 		int n = arr.size();
@@ -81,9 +81,9 @@ class Solution {
 	}
 };
 
-```
+// ```
 
----
+// ---
 
 <div align="center">
 
