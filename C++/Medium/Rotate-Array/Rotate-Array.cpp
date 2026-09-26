@@ -1,8 +1,3 @@
-// Problem: Rotate Array
-// Difficulty: Medium
-// Language: C++
-// GFG: https://www.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1
-
 class Solution {
 	public:
 	void rotateArr(vector<int>& arr, int d) {
