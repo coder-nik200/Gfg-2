@@ -64,27 +64,6 @@ when we rotate 9 times, we'll get [3, 9, 1, 7] as resultant array.
 
 ---
 
-// ## 💡 Solution
-
-// Solution file: [`Rotate-Array.cpp`](./Rotate-Array.cpp)
-
-// ```cpp
-// class Solution {
-	public:
-	void rotateArr(vector<int>& arr, int d) {
-		int n = arr.size();
-		d = d % n;
-		
-		reverse(arr.begin(), arr.begin() + d);
-		reverse(arr.begin() + d, arr.end());
-		reverse(arr.begin(), arr.end());
-	}
-};
-
-// ```
-
-// ---
-
 <div align="center">
 
 ### 🚀 GFG GitHub Sync
