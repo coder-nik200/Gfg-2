@@ -1,13 +1,14 @@
-# [Rotate Array](https://www.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1)
+# 🔗 [Rotate Array](https://www.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1)
 
-## 📌 Problem Details
+> **GeeksforGeeks Problem**
 
-| Property | Details |
+| 📌 Property | 📋 Details |
 |---|---|
-| **Difficulty** | Medium |
-| **Language** | C++ |
-| **Platform** | GeeksforGeeks |
-| **Problem URL** | [Open on GeeksforGeeks →](https://www.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1) |
+| **Difficulty** | 🟢 Medium |
+| **Language** | 💻 C++ |
+| **Platform** | 🌐 GeeksforGeeks |
+
+---
 
 ## 📝 Problem Statement
 
@@ -29,10 +30,12 @@ Input: arr[] = [7, 3, 9, 1], d = 9
 Output: [3, 9, 1, 7]
 Explanation: when we rotate 9 times, we'll get [3, 9, 1, 7] as resultant array.
 
-## 💻 Solution
+---
 
-[View Rotate-Array.cpp →](Rotate-Array.cpp)
+<div align="center">
 
-## 🔗 Original Problem
+**GFG GitHub Sync** 🚀
 
-[Open Rotate Array on GeeksforGeeks →](https://www.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1)
+*Automatically synced from GeeksforGeeks*
+
+</div>
