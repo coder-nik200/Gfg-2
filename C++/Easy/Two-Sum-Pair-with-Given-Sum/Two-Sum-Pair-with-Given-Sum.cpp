@@ -8,7 +8,6 @@ class Solution {
 			nums.push_back({arr[i], i});
 		}
 		
-// 		sort a vector
 		sort(nums.begin(), nums.end());
 		int left = 0;
 		int right = n - 1;
