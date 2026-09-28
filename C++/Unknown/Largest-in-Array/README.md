@@ -66,6 +66,6 @@ There is only one element which is the largest.
 
 ### 🚀 GFG GitHub Sync
 
-<sub>Automatically synced from GeeksforGeeks • Last updated: 2026-09-26</sub>
+<sub>Automatically synced from GeeksforGeeks • Last updated: 2026-09-28</sub>
 
 </div>
